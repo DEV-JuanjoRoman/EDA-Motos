@@ -120,4 +120,4 @@ La potencia es la variable más relacionada con el precio (Spearman ≈ 0,58). L
 
 ---
 
-**Autor:** [Tu nombre] · Máster en Data Science & IA — Evolve Academy
+**Autor:** Juan José Román Ruiz · Máster en Data Science & IA — Evolve Academy
